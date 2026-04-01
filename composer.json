@@ -1,5 +1,5 @@
 {
-    "name": "clegginabox/pdf-merger",
+    "name": "adesin-fr/pdf-merger",
     "description": "PDF File Merger for PHP5",
     "license": "MIT",
     "require": {
@@ -7,6 +7,10 @@
         "setasign/fpdf": "^1.8"
     },
     "authors": [
+        {
+            "name": "Ludovic LEMARINEL",
+            "email": "ludovic@adesin.fr"
+        },
         {
             "name": "Paul Clegg",
             "email": "paul@clegginabox.co.uk"
